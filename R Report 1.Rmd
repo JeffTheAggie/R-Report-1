@@ -2,7 +2,7 @@
 title: "R Report 1"
 author: "Jeffrey Ugochukwu"
 date: "April 20, 2019"
-output: "github_document"
+output: html_document
 ---
 
 ```{r, echo = FALSE}
